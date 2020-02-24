@@ -20,6 +20,12 @@ Part I Gutenberg HTML Files Modifications
 * Changed the radius and width of the images
 * Changed the font size of the image captions
 
+Reference
+=================
+“How TO - Fixed Sidebar,” *w3schools*, [Online]. Available: https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp. [Accessed: 22-Feb-2020]. 
+
+C. Love, “How to Make Horizontal Lines in HTML and CSS - Cool Ways You Can Style the HR Element,” *Love2Dev*, 11-Mar-2019. [Online]. Available: https://love2dev.com/blog/html-horizontal-line/. [Accessed: 22-Feb-2020].
+
 License/Copyright
 =================
 
