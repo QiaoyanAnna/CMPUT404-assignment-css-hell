@@ -12,6 +12,14 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Part I Gutenberg HTML Files Modifications
+=========================================
+* Changed the background color and the margin of the body
+* Changed the indentation of the paragraph and the font size of the text within the paragraph
+* Changed the font of the text
+* Changed the radius and width of the images
+* Changed the font size of the image captions
+
 License/Copyright
 =================
 
