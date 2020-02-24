@@ -95,3 +95,9 @@ p {
     list-style-type: none;
     float: right;
 }
+
+.license {
+    float: right;
+    width: 100%;
+    font-size: 20px;
+}
