@@ -23,11 +23,11 @@ H1,H2,H3,H4,H5,H6 {
 
 img {
     border-radius: 5%;
-    width: 200px;
+    width: 600px;
 }
 
-.img .caption {
-    font-size: 15px;
+.caption {
+    font-size: 20px;
     font-family: "Times New Roman", Times, serif;
     text-align: center;
 }
